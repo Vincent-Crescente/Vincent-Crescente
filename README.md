@@ -9,7 +9,7 @@ I'm always interested in learning new technologies and understanding how differe
 ## Main Technologies
 
 - Python
-- SQL
+- SQL (MSSQL, MySQL, Utilizing their Workbenches)
 - Pandas / Polars
 - Apache Airflow
 - Snowflake
